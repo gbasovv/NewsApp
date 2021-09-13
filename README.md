@@ -29,6 +29,9 @@ You can save downloaded news to your phone, if you want to read it later. To sav
 - #### Run app
 <img src="Images/RunApp.gif" width=150>
 
+- #### Open article in the browser
+<img src="Images/OpenArticle.gif" width=150>
+
 - #### Refresh data
 <img src="Images/RefreshData.gif" width=150>
 
